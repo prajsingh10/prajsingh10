@@ -23,13 +23,13 @@
 
 ### 1. medical store health care  
 E-commerce store with vibrant UI and AI chatbot integration.  
-🔗 [Live Demo](#) | 🛠 Tech: HTML, CSS, JS, Chatbot API  
-![Toy Mart Screenshot](https://prajsingh10.github.io/medical-store-website/)
+🔗 [Live Demo](https://prajsingh10.github.io/medical-store-website/) | 🛠 Tech: HTML, CSS, JS, Chatbot API  
+![Toy Mart Screenshot](https://github.com/prajsingh10/imagefile-name/blob/main/medicalwebsite.png?raw=true)
 
 ### 2. Cafe Website  
 Modern responsive website for a cafe with menu and booking features.  
-🔗 [Live Demo](#) | 🛠 Tech: HTML, CSS, PHP  
-![Cafe Website Screenshot](https://prajsingh10.github.io/my-website/)
+🔗 [Live Demo](https://prajsingh10.github.io/my-website/) | 🛠 Tech: HTML, CSS, PHP  
+![Cafe Website Screenshot](https://github.com/prajsingh10/imagefile-name/blob/main/cafewebsite.png?raw=true)
 
 ### 3. Shopping Store Landing Page (Figma)  
 Clean and attractive landing page design.  
@@ -38,8 +38,8 @@ Clean and attractive landing page design.
 
 ### 4. Tic Tak Toe game for kids   
 Modern responsive website for a gaming.  
-🔗 [Live Demo](#) | 🛠 Tech: HTML, CSS, javascript 
-![Cafe Website Screenshot](https://prajsingh10.github.io/Tic-Tak-Toe-webgame/)
+🔗 [Live Demo](https://prajsingh10.github.io/Tic-Tak-Toe-webgame/) | 🛠 Tech: HTML, CSS, javascript 
+![Cafe Website Screenshot](https://github.com/prajsingh10/imagefile-name/blob/main/TicTakToewebsite.png?raw=true)
 
 ---
 
