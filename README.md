@@ -43,7 +43,7 @@ Modern responsive website for a gaming.
 
 ### 5. Shopping web
 full stack website responsive 
-🔗 [Live Demo]() | 🛠 Tech: HTML, CSS, javascript 
+🔗 [Live Demo](https://github.com/prajsingh10/flexystyles.git) | 🛠 Tech: HTML, CSS, javascript 
 
 
 
